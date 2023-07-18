@@ -1,3 +1,3 @@
 module.exports = {
-  puplicPath: '/OptimalSity/',
+  publicPath: '/OptimalSity/',
 };
